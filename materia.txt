@@ -1,0 +1,7 @@
+1;Poo
+2;Lenguaje y comunicacion
+3;Investigacion
+4;Administracion General
+5;Sistemas operativos
+6;Psicologia, desarrollo y aprendizaje humano
+7;Probabilidad y estadisticas

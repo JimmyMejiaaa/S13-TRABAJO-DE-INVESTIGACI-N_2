@@ -1,0 +1,9 @@
+1;Software
+2;Biotecnologia
+3;Industrial
+4;Alimentos
+5;Educacion Especial
+6;Enfermeria
+7;Turismo
+8;Educacion Inicial
+9;h
